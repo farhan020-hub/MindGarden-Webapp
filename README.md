@@ -2,12 +2,6 @@
 
 - MindGarden is a mental health app that will help you improve your mental health by taking an assessment reading blogs and communicating in a community forum with other users 
 
-## Disclaimer!
-
-- `Please note that the links to the web application and backend routes provided above may not be accessible. This could be due to the expiration of the free trial hosting services. If the links are unavailable, consider deploying the application locally following the instructions provided.`
-
-
-
 ## Description
 
 - This React application is built using [create-react-app](https://create-react-app.dev/).
@@ -17,6 +11,10 @@
 ## Live server
  - You can view the web live on [Frontend](https://mindgarden-one.vercel.app/)
  - You can view the backend routes on [Backend](https://mindgarden.onrender.com/)
+
+## Disclaimer!
+
+- `Please note that the links to the web application and backend routes provided above may not be accessible. This could be due to the expiration of the free trial hosting services. If the links are unavailable, consider deploying the application locally following the instructions provided.`
 
 
 ## Pre-requisites
